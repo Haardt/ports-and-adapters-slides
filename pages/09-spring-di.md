@@ -12,7 +12,7 @@ class ServiceAImpl(private val serviceB: ServiceB): ServiceA
 interface ServiceB
 
 @Service
-class ServiceBImpl(private val serviceA: ServiceA): ServiceB
+class ServiceBImpl(private val serviceA: ServiceA): ServiceB // Naa :)?
 ```
 
 <arrow v-click x1="140" y1="320" x2="315" y2="225" color="#953" width="2" arrowSize="1" />

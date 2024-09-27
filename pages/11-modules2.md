@@ -37,5 +37,5 @@
 
 <br>
 
-### Ports and Adapters
+## Ports and Adapters
 The new API module defines its own domain interfaces and entities, implemented by API adapters in the new module.

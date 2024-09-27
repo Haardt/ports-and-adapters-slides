@@ -1,12 +1,12 @@
 # Ports and Adapters Architecture
 
-### Definition
+## **Definition**
 Also known as "Hexagonal Architecture".
 
-### Goal
+## **Goal**
 Decoupling the application core from external systems.
 
-### Purpose
+## **Purpose**
 Focus on business functions, independent of technical implementations.
 
 <!--

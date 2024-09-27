@@ -28,7 +28,7 @@ name: Andreas Haardt
 job: Team Lead @STARFACE
 line1: +25 years professional experience
 line2: T-Shaped :)
-social1: @linkedin
+social1: Say hi at @linkedin!
 social2: 
 social3: 
 transition: fade-out
